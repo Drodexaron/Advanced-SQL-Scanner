@@ -11,5 +11,5 @@ _____________________________________________________________
 
 - We are working for new features and improving the system.
 
-Join the [telegram] for new features and news.
-https://t.me/Revenge_of_devils
+Join the [telegram](https://t.me/Revenge_of_devils) for new features and news.
+
